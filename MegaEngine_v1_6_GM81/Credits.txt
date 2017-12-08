@@ -1,0 +1,40 @@
+Credits:
+
+FMOD Sound System
+Blyka - sort of general engine references; Weapon drop RNG
+Patrick Lauke - MM4/5/6 font
+Ay Jay - Engine name
+
+
+Music:
+8BitDanooct1
+
+
+Sprites:
+
+Custom:
+Lamda
+
+Rips:
+Sprites Inc.
+Ryan914
+mafoosh (tilesets)
+
+
+Sound effects:
+Blyka
+SnoruntPyro
+J-Sinn
+
+
+Playtesting:
+NinjaMan_Z
+Valo / Neo
+Feguelion
+Ay Jay
+Hero
+Corvus
+Smedis2
+DoomMan
+Syaxamaphone
+adrian09_01

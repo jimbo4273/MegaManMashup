@@ -1,0 +1,8 @@
+-Added a Game Maker Studio 2 version. This also comes with a custom view system that allows you to use the view almost exactly like in Game Maker 8.1 and Studio 1
+-Added a separate slide button (default: C)
+-Added support for stretched collision; while probably not useful in Game Maker 8.1, this makes level creation in Game Maker Studio 1 and 2 faster, as well as increasing performance
+-When checking for collision with gimmicks, you no longer have to check for their dead variable, making especially moving platform collision less complicated. NOTE: this method changes the object's mask to nothing when despawned, keep this in mind in case you want to change masks at unusual times
+-Made spike collision more fair; if you collide with a solid and spike at the same time, the solid takes priority, preventing you from dying. This is more accurate to the original games
+-Fixed a bug where jumping on the frame you land would prevent you from doing a short jump
+-Fixed the disclaimer text's vertical spacing in the Game Maker Studio 1 and 2 versions
+-Fixed a bug where throwing a weapon, then switching weapons and shooting a weapon, caused your controls to become locked
